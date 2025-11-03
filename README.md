@@ -20,7 +20,7 @@ This dataset contains urban spatial data with the following features:
 ## File Information
 
 - **Filename**: `urban_spatial_data_large.csv`
-- **Size**: >200MB
+- **Size**:  ~1.5GB
 - **Format**: CSV (Comma-separated values)
 
 ## Usage
@@ -32,7 +32,4 @@ This dataset can be used for:
 - Air quality research
 - Noise pollution assessment
 
-## Note
-
-This file is managed using Git LFS (Large File Storage) due to its size.
 
